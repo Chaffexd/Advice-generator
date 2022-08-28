@@ -23,3 +23,6 @@ Your users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 You can see the project, here: https://advice-generator-six-lake.vercel.app/
+
+## Lighthouse test
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/67240269/187078246-df227393-1fd0-4db9-a437-2f3a73750184.png">
