@@ -72,3 +72,11 @@ body {
     width: 20px;
     height: 20px;
 }
+
+button {
+    cursor: pointer;
+    background: none;
+    border: none;
+    position: relative;
+    top: 2px;
+}
